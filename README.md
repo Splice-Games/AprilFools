@@ -1,5 +1,5 @@
 # AprilFools
-Bans player's every hour on April 1st.
+Bans a player every hour on April 1st.
 <br>
 Version: `1.0` <br>
 Developer: `MacksSilverSack` <br>
