@@ -27,7 +27,7 @@ public class AprilFools extends JavaPlugin {
 								"litebans:ban {player} 1s April Fools: Banned by the Hourly Ban System"
 										.replace("{player}", bannedPlayer.getName()));
 						Bukkit.dispatchCommand(Bukkit.getConsoleSender(),
-								"broadcast &6{player} &fwas banned by the Hourly Ban System".replace("{player}",
+								"pa &6{player} &fwas banned by the Hourly Ban System".replace("{player}",
 										bannedPlayer.getName()));
 					}
 				}
