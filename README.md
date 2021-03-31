@@ -1,7 +1,7 @@
 # AprilFools
 Bans a player every hour on April 1st.
 <br>
-Version: `1.0` <br>
+Version: `1.1` <br>
 Developer: `MacksSilverSack` <br>
 
 ## Installation
